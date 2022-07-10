@@ -9,3 +9,5 @@ We used Twitter API to collect COVID-19 related Tweet data from 3/13 to 3/28, 20
 Tweets for different government measures, 20000 for each respectively. Measures include test kit, self isolation, school closing, business closing, social distance, mask and ventilator.
 
 We showed an approach to tracking citizens’ concern levels and emotions during public health crises and their concern levels towards government measures and guidelines. The sentiment-based monitoring will allow governments to understand the citizens’ mental and emotional issues and hotspots to address them before the impact of disease anxiety becomes damaging on its own. We are working on several extensions, including the near-real-time surveillance, and utilizing additional social media sources (e.g. Reddit). These can be integrated with authoritative sources (e.g., CDC) for identifying the hotspots of diseases, emotion-based concern hotspots of population groups, and for identifying major topics and discussion threads.
+
+I present the results of visualization in Tracking Citizen’s Concerns during COVID-19 Pandemic.pdf
