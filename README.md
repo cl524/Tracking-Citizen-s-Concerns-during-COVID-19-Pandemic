@@ -10,4 +10,4 @@ Tweets for different government measures, 20000 for each respectively. Measures 
 
 We showed an approach to tracking citizens’ concern levels and emotions during public health crises and their concern levels towards government measures and guidelines. The sentiment-based monitoring will allow governments to understand the citizens’ mental and emotional issues and hotspots to address them before the impact of disease anxiety becomes damaging on its own. We are working on several extensions, including the near-real-time surveillance, and utilizing additional social media sources (e.g. Reddit). These can be integrated with authoritative sources (e.g., CDC) for identifying the hotspots of diseases, emotion-based concern hotspots of population groups, and for identifying major topics and discussion threads.
 
-I present the results of visualization in Tracking Citizen’s Concerns during COVID-19 Pandemic.pdf
+I present the results of visualization in Report_Tracking Citizen’s Concerns during COVID-19 Pandemic.pdf
